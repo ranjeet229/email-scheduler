@@ -29,7 +29,7 @@ export function Header() {
       <div className="flex items-center gap-4">
         <div className="flex items-center gap-2">
           <div className="w-9 h-9 bg-primary rounded-lg flex items-center justify-center">
-            <span className="text-primary-foreground font-bold text-sm">DN8</span>
+            <span className="text-primary-foreground font-bold text-sm">Email Scheduler</span>
           </div>
         </div>
         
