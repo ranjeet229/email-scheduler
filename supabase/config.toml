@@ -1,0 +1,7 @@
+project_id = "qhdvfbnionvihrebzlqr"
+
+[functions.process-emails]
+verify_jwt = false
+
+[functions.schedule-emails]
+verify_jwt = false
