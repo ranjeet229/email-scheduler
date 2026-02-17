@@ -1,4 +1,4 @@
-# Email Scheduler (Production-Grade)
+# Email Scheduler 
 
 A mini ReachInbox-style email scheduling system: API-driven scheduling, MongoDB, BullMQ (Redis) for delayed jobs, Ethereal SMTP, and a Next.js dashboard with email/password signup and login.
 
